@@ -1,0 +1,1 @@
+start .\lab4.exe
